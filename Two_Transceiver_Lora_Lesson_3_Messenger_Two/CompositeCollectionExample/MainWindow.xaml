@@ -1,0 +1,55 @@
+﻿<Window x:Class="ArduinoMessenger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ArduinoMessenger"
+        xmlns:localmodel="clr-namespace:ArduinoMessenger.Model"
+        xmlns:localcontrols="clr-namespace:ArduinoMessenger.Controls"
+        xmlns:localhelper="clr-namespace:ArduinoMessenger.Helper"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="800" Width="1100"
+        WindowStyle="None"
+        AllowsTransparency="True"
+        ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="icons/backg.png"/>
+    </Window.Background>
+
+    <Window.Resources>
+        <localhelper:StringFormatConverter x:Key="objectToString"/>
+    </Window.Resources>
+    <Grid MouseLeftButtonDown="Grid_MouseLeftButtonDown" Background="Transparent">
+        <Grid Margin="301,76,0,136">
+            <ScrollViewer VerticalScrollBarVisibility="Auto" Background="Transparent" x:Name="ScrollMessage">
+                <ItemsControl Name ="conversationList">
+                    <ItemsControl.Resources>
+                        <DataTemplate DataType="{x:Type localmodel:Message}">
+                            <localcontrols:MessageBubble
+                               Margin="0,0,100,0"
+                               HorizontalAlignment="Left"
+                               MessageBubbleFontSize="18"
+                               TextMessage="{Binding TextMessage}"
+                               PersonName="{Binding Person}"
+                               TimeStamp="{Binding ReceivedTime, Converter={StaticResource objectToString}}"
+                               SendOut="{Binding SendOut, Converter={StaticResource objectToString}}"/>
+                        </DataTemplate>
+                    </ItemsControl.Resources>
+                </ItemsControl>
+            </ScrollViewer>
+        </Grid>
+        <Button Content="Отправить" HorizontalAlignment="Left" Margin="953,664,0,0" VerticalAlignment="Top" Height="136" Width="147" Click="Button_Click" FontSize="20"/>
+        <TextBox x:Name="TextOut" HorizontalAlignment="Left" Margin="301,664,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="652" Height="136"/>
+        <ComboBox x:Name="COM" HorizontalAlignment="Left" Margin="97,400,0,0" VerticalAlignment="Top" Width="109" Height="35" SelectionChanged="COM_SelectionChanged"/>
+        <TextBox x:Name="UserName"
+                 HorizontalAlignment="Left"
+                 Margin="58,266,0,0" TextWrapping="Wrap"  
+                 VerticalAlignment="Top" 
+                 Width="187" 
+                 Height="57"
+                 TextAlignment="Center"
+                 FontSize="16"/>
+        <Border Background="Transparent" Margin="1030,0,0,729" PreviewMouseLeftButtonDown="Border_PreviewMouseLeftButtonDown" Cursor="Hand"/>
+        <Border Background="Transparent" Margin="978,0,70,729" PreviewMouseLeftButtonDown="Border_PreviewMouseLeftButtonDown_1" Cursor="Hand"/>
+    </Grid>
+</Window>

@@ -1,0 +1,100 @@
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe.config
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.pdb
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\Controls\InboundMessageBubble.g.cs
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\Controls\OutboundMessageBubble.g.cs
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\MainWindow.g.cs
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\App.g.cs
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.cache
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.lref
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\Controls\InboundMessageBubble.baml
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\Controls\OutboundMessageBubble.baml
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\MainWindow.baml
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.g.resources
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.Properties.Resources.resources
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.GenerateResource.Cache
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.exe
+C:\Users\schalke\documents\visual studio 2017\Projects\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.pdb
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe.config
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.pdb
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.AssemblyReference.cache
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\Controls\InboundMessageBubble.g.cs
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\Controls\OutboundMessageBubble.g.cs
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\MainWindow.g.cs
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\App.g.cs
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.cache
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.lref
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\Controls\InboundMessageBubble.baml
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\Controls\OutboundMessageBubble.baml
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\MainWindow.baml
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.g.resources
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.Properties.Resources.resources
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.GenerateResource.cache
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.exe
+C:\Users\psibi\Desktop\CompositeCollectionExample\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.pdb
+G:\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe.config
+G:\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe
+G:\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.pdb
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.AssemblyReference.cache
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.SuggestedBindingRedirects.cache
+G:\CompositeCollectionExample\obj\Debug\Controls\InboundMessageBubble.g.cs
+G:\CompositeCollectionExample\obj\Debug\Controls\OutboundMessageBubble.g.cs
+G:\CompositeCollectionExample\obj\Debug\MainWindow.g.cs
+G:\CompositeCollectionExample\obj\Debug\App.g.cs
+G:\CompositeCollectionExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.cache
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.lref
+G:\CompositeCollectionExample\obj\Debug\Controls\InboundMessageBubble.baml
+G:\CompositeCollectionExample\obj\Debug\Controls\OutboundMessageBubble.baml
+G:\CompositeCollectionExample\obj\Debug\MainWindow.baml
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.g.resources
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.Properties.Resources.resources
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.GenerateResource.cache
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.CoreCompileInputs.cache
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.exe
+G:\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.pdb
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe.config
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.pdb
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.AssemblyReference.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\Controls\InboundMessageBubble.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\Controls\OutboundMessageBubble.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\MainWindow.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\App.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.lref
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\Controls\InboundMessageBubble.baml
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\Controls\OutboundMessageBubble.baml
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\MainWindow.baml
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.g.resources
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.Properties.Resources.resources
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.GenerateResource.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.exe
+C:\Users\psibi\Desktop\Проекты\Чат мессенджеро\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.pdb
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.AssemblyReference.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.SuggestedBindingRedirects.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\MainWindow.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\App.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample_MarkupCompile.lref
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.exe
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.pdb
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe.config
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.exe
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\bin\Debug\CompositeCollectionExample.pdb
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\MainWindow.baml
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.g.resources
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.Properties.Resources.resources
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.GenerateResource.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\CompositeCollectionExample.csproj.CoreCompileInputs.cache
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\Controls\MessageBubble.g.cs
+C:\Users\psibi\Desktop\Проекты\Чат мессенджер\CompositeCollectionExample\obj\Debug\Controls\MessageBubble.baml
